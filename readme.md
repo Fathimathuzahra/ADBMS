@@ -1,6 +1,4 @@
-# 📘 MySQL Basic Syntax Cheat Sheet
 
----
 
 ## 🔹 1. Database Commands
 ```sql
