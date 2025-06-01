@@ -166,6 +166,4 @@ ALTER TABLE students DROP CHECK chk_age;
 ALTER TABLE students DROP FOREIGN KEY fk_class;
 ```
 
----
 
-🧠 *Keep practicing these commands in a MySQL terminal or a GUI like phpMyAdmin, MySQL Workbench, or db-fiddle.*
